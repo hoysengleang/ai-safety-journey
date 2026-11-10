@@ -1,0 +1,18 @@
+# Private
+08-applications/
+08-contacts/
+.drafts-personal/
+.env
+*credentials*
+
+# Junk
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+
+# Large files
+*.pdf
+*.zip
